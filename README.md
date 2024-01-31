@@ -50,28 +50,62 @@ My undergraduate studies focused on visual arts, music,  and literature, while I
 
 </details>
 
-
-</details>
 <details>
   <summary>
     <strong>Leadership comes from everywhere.</strong>
   </summary>
 
  My wife likes to remind me that I wouldn’t say I liked meetings for the first ten years of my professional career. She's right. I've spent a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers, even as a manager. While managers are an essential part of a scaling organization, they don’t have a monopoly on Leadership. I work hard to build other constructs and opportunities for any human on the team to be a leader.
+</details>
 
-I see things as systems. I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit and work together. When I see large or small inefficiencies in these complex systems, I'd like to fix them with your help.
+<details>
+  <summary>
+    <strong>I see things as systems.</strong>
+  </summary>
+ I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit and work together. When I see large or small inefficiencies in these complex systems, I'd like to fix them with your help.
+</details>
 
-It is important to me that humans are treated fairly. Most humans try to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. Those in power have a disproportionate responsibility to invest in historically disadvantaged humans proactively.
+<details>
+  <summary>
+    <strong>I see things as systems.</strong>
+  </summary>
+    It is important to me that humans are treated fairly. Most humans try to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. Those in power have a disproportionate responsibility to invest in historically disadvantaged humans proactively.
+</details>
 
-I am heavily biased toward action. Long meetings where we endlessly debate potential directions are often valuable, but I believe starting is the best way to begin learning and progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+<details>
+  <summary>
+    <strong>I am heavily biased toward action. </strong>
+  </summary>
+Long meetings where we endlessly debate potential directions are often valuable, but I believe starting is the best way to begin learning and progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+</details>
 
-I default to delegation. The delegation of increasingly large, complex, and high-risk projects to my team is the correct way to build trust and grow the team. If you feel a thing I've delegated to you is too large, complex, or risky, you should tell me, and I will help. You should know that I would not make this delegation choice if I did not believe you would be successful. I am always willing to help.
+<details>
+  <summary>
+    <strong>I default to delegation. </strong>
+  </summary>
+ The delegation of increasingly large, complex, and high-risk projects to my team is the correct way to build trust and grow the team. If you feel a thing I've delegated to you is too large, complex, or risky, you should tell me, and I will help. You should know that I would not make this delegation choice if I did not believe you would be successful. I am always willing to help.
+</details>
 
-I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone's responsibility, and there are bugs to be fixed everywhere… all the time. This is everyone’s responsibility, and I will give you side-eye if I see you avoiding investing in quality.
+<details>
+  <summary>
+    <strong>I believe in the compounding awesomeness of continually fixing small things. </strong>
+  </summary>
+ I believe quality assurance is everyone's responsibility, and there are bugs to be fixed everywhere… all the time. This is everyone’s responsibility, and I will give you side-eye if I see you avoiding investing in quality.
+</details>
 
-I start with an assumption of positive intent for all involved. This has worked out well for me over my career. Yes, even when the sky is falling, and the humans are panicking, I will open the meeting with a joke.
+<details>
+  <summary>
+    <strong>I start with an assumption of positive intent for all involved. </strong>
+  </summary>
+ This has worked out well for me over my career. Yes, even when the sky is falling, and the humans are panicking, I will open the meeting with a joke.
+</details>
 
-I need you to know that sometimes we are on HIGH ALERT, and things will get strange and unpredictable. There is an exception to many of my practices and principles, which is when we are in a HIGH ALERT situation. HIGH-ALERT conditions usually involve existential threats to our product, team, and/or company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not apparent, I will alert you that I am in this state, along with my best guess, when we are done. If I am constantly in this state, something is fundamentally broken in my strategy. You should tell me this. I might be so busy that I need the reminder.
+<details>
+  <summary>
+    <strong>I need you to know that sometimes we are on HIGH ALERT, and things will get strange and unpredictable. </strong>
+  </summary>
+There is an exception to many of my practices and principles, which is when we are in a HIGH ALERT situation. HIGH-ALERT conditions usually involve existential threats to our product, team, and/or company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not apparent, I will alert you that I am in this state, along with my best guess, when we are done. If I am constantly in this state, something is fundamentally broken in my strategy. You should tell me this. I might be so busy that I need the reminder.
+</details>
 
 
 
