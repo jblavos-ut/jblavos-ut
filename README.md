@@ -1,13 +1,11 @@
-# Jerrod Blavos
-#### VP, Engineering
 
-## A readme for a human?  What!?
-First things first, I am not a robot :smile: - I invite and appreciate feedback
+<h1>
+  Jerrod Blavos
+  <span style="float:right;font-size:0.7em;color:#999;margin-top:0.25em">VP, Engineering</span>
+</h1>
+<table style="border: none;padding:0"><tr><td style="border: none;width:30%;padding:0" valign="top">
 
-In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, ad  leading our engineering team towards success. This document serves as a guide to understand me as a person, my role at Usertesting, vision, committment to supporting my team, PANDE and Usertesting, and my expectations of the same.
-
----
-### Table of Contents
+## Table of Contents
 - [A little about Me](#a-little-about-me)
 - [Guiding Principles](#guiding-principles)
 - [Leadership](#leadership)
@@ -16,15 +14,27 @@ In my role as a VP of Engineering, I am responsible for creating an enviroment t
 - [Career Development](#career-development)
 - [Conclusion](#conclusion)
 
-## A little about me
+</td><td style="width:50%;padding:0;border:none;padding-left:2em" valign="top">
 
-Joined Usertesting in 2015 coming from over a decade leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
+## A readme for a human?  What!?
+This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+
+I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
+
+</td></tr></table>
+
+## A little about me
+<img src="https://avatars.githubusercontent.com/u/137301546?v=4" width="40%" style="float:right;z-index:9999;margin: 0 0 1em 1em">
+
+I joined Usertesting in 2015 coming from over a decade leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
 
 We built easy to use, self-service solutions for [complex, multi-region, multi-language asset management](https://www.wmg.com), [fan clubs](https://www.roadrunnerrecords.com), [talent scouting & street teams](https://www.redbullrecords.com), [ecommerce platforms for legendary act's live music archives](https://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html),  [marketing campaigns leveraging existing tech in unexpected ways](https://www.nbcnews.com/id/wbna55011838), and had the opportunity to work alongside [some](https://smashingpumpkins.com) [of](https://www.coheedandcambria.com) [my]() [musical](https://www.gojira-music.com) and [artistic](https://www.paulfrank.com) [idols](https://en.wikipedia.org/wiki/Black_Francis) along with [early pioneers in the UX space](https://medium.com/@adaptivepath), one of the [most influential metal news sites on the internet](https://blabbermouth.net), a now-favorite [irish whiskey](https://www.coheedandcambria.com), and [pop music for kids](https://kidzbop.com).
 
 My undergraduate studies focused on visual arts, music,  and literature, while I paid my way through college as a designer for [Marietta College marketing team](https://www.marietta.edu/communication-brand). I graduated with a major in oil-painting & printmaking, and a minor in both music theory and performance, and english literature. Of the three, I spend the most time with music, both listening and [creating](https://soundcloud.com/blavos/sets/bound).
 
-### Guiding Principles
+## Guiding Principles
+
+In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, and  leading our engineering team towards success. This document serves as a guide to understand me as a person, my role at Usertesting, vision, committment to supporting my team, PANDE and Usertesting, and my expectations of the same.
 
 <details>
 
@@ -41,6 +51,7 @@ My undergraduate studies focused on visual arts, music,  and literature, while I
     • Helpful, auto-fixing deprecation messages
 
 </details>
+
 <details>
   <summary>
     <strong>Humans first</strong>
@@ -48,28 +59,6 @@ My undergraduate studies focused on visual arts, music,  and literature, while I
 
   Happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize the business, the technology, or any different number of essential facets. Ideological diversity is critical to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is toward building productive humans.
 
-</details>
-
-<details>
-  <summary>
-    <strong>Leadership comes from everywhere.</strong>
-  </summary>
-
- My wife likes to remind me that I wouldn’t say I liked meetings for the first ten years of my professional career. She's right. I've spent a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers, even as a manager. While managers are an essential part of a scaling organization, they don’t have a monopoly on Leadership. I work hard to build other constructs and opportunities for any human on the team to be a leader.
-</details>
-
-<details>
-  <summary>
-    <strong>I see things as systems.</strong>
-  </summary>
- I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit and work together. When I see large or small inefficiencies in these complex systems, I'd like to fix them with your help.
-</details>
-
-<details>
-  <summary>
-    <strong>I see things as systems.</strong>
-  </summary>
-    It is important to me that humans are treated fairly. Most humans try to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. Those in power have a disproportionate responsibility to invest in historically disadvantaged humans proactively.
 </details>
 
 <details>
