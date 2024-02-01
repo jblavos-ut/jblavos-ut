@@ -1,11 +1,8 @@
 
-<h1>
-  Jerrod Blavos
-  <span style="float:right;font-size:0.7em;color:#999;margin-top:0.25em">VP, Engineering</span>
-</h1>
-<table style="border: none;padding:0"><tr><td style="border: none;width:30%;padding:0" valign="top">
+# Jerrod Blavos - VP, Engineering
 
 ## Table of Contents
+
 - [A little about Me](#a-little-about-me)
 - [Guiding Principles](#guiding-principles)
 - [Leadership](#leadership)
@@ -14,17 +11,15 @@
 - [Career Development](#career-development)
 - [Conclusion](#conclusion)
 
-</td><td style="width:50%;padding:0;border:none;padding-left:2em" valign="top">
-
 ## A readme for a human?  What!?
+
 This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
 
-</td></tr></table>
-
 ## A little about me
-<img src="https://avatars.githubusercontent.com/u/137301546?v=4" width="40%" style="float:right;z-index:9999;margin: 0 0 1em 1em">
+
+<img src="https://avatars.githubusercontent.com/u/137301546?v=4" width="40%" align="right">
 
 I joined Usertesting in 2015 coming from over a decade leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
 
