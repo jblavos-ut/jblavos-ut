@@ -19,8 +19,6 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 
 ## A little about me
 
-<img src="https://avatars.githubusercontent.com/u/137301546?v=4" width="40%" align="right">
-
 I joined Usertesting in 2015 coming from over a decade leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
 
 We built easy to use, self-service solutions for [complex, multi-region, multi-language asset management](https://www.wmg.com), [fan clubs](https://www.roadrunnerrecords.com), [talent scouting & street teams](https://www.redbullrecords.com), [ecommerce platforms for legendary act's live music archives](https://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html),  [marketing campaigns leveraging existing tech in unexpected ways](https://www.nbcnews.com/id/wbna55011838), and had the opportunity to work alongside [some](https://smashingpumpkins.com) [of](https://www.coheedandcambria.com) [my]() [musical](https://www.gojira-music.com) and [artistic](https://www.paulfrank.com) [idols](https://en.wikipedia.org/wiki/Black_Francis) along with [early pioneers in the UX space](https://medium.com/@adaptivepath), one of the [most influential metal news sites on the internet](https://blabbermouth.net), a now-favorite [irish whiskey](https://www.coheedandcambria.com), and [pop music for kids](https://kidzbop.com).
