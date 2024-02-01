@@ -2,34 +2,37 @@
 #### VP, Engineering
 
 ## A readme for a human?  What!?
-First things first, I am not a robot :smile: - I invite and appreciate feedback
+First things first, despite the "readme", I am not software or a robot. :smile:
 
-In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, ad  leading our engineering team towards success. This document serves as a guide to understand me as a person, my role at Usertesting, vision, committment to supporting my team, PANDE and Usertesting, and my expectations of the same.
+In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, and leading our engineering team towards success. This document serves as a guide to understand whow to best work with me, my committment to supporting my teams, PANDE, and Usertesting, and my expectations of the same.
 
 ---
 ### Table of Contents
-- [A little about Me](#a-little-about-me)
+
+- [A little about me](#a-little-about-me)
 - [Guiding Principles](#guiding-principles)
-- [Leadership](#leadership)
-- [Technical Expertise](#technical-expertise)
-- [Collaboration](#collaboration)
-- [Career Development](#career-development)
-- [Conclusion](#conclusion)
+- [Feedback Protocol](#feedback-protocol)
+- [Meeting Protocol](#meeting-protocol)
+- [Nuance & Eratta](#nuance-and-errata)
 
 ## A little about me
 
-Joined Usertesting in 2015 coming from over a decade leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
+I joined Usertesting in 2015, coming in with over a decade of leading product and engineering efforts for a digital agency, [RecCenter](https://reccenter.com/) which focused heavily on the entertainment industry.
 
 We built easy to use, self-service solutions for [complex, multi-region, multi-language asset management](https://www.wmg.com), [fan clubs](https://www.roadrunnerrecords.com), [talent scouting & street teams](https://www.redbullrecords.com), [ecommerce platforms for legendary act's live music archives](https://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html),  [marketing campaigns leveraging existing tech in unexpected ways](https://www.nbcnews.com/id/wbna55011838), and had the opportunity to work alongside [some](https://smashingpumpkins.com) [of](https://www.coheedandcambria.com) [my]() [musical](https://www.gojira-music.com) and [artistic](https://www.paulfrank.com) [idols](https://en.wikipedia.org/wiki/Black_Francis) along with [early pioneers in the UX space](https://medium.com/@adaptivepath), one of the [most influential metal news sites on the internet](https://blabbermouth.net), a now-favorite [irish whiskey](https://www.coheedandcambria.com), and [pop music for kids](https://kidzbop.com).
 
-My undergraduate studies focused on visual arts, music,  and literature, while I paid my way through college as a designer for [Marietta College marketing team](https://www.marietta.edu/communication-brand). I graduated with a major in oil-painting & printmaking, and a minor in both music theory and performance, and english literature. Of the three, I spend the most time with music, both listening and [creating](https://soundcloud.com/blavos/sets/bound).
+My undergraduate studies focused on visual arts, music,  and literature, while I worked to pay my way through college as a designer for the [Marietta College marketing team](https://www.marietta.edu/communication-brand). I graduated with a major in oil-painting & printmaking, and a minor in both music theory and performance, and english literature. Of the three, I spend the most time with music, both listening and [creating it](https://soundcloud.com/blavos/sets/bound).
 
-### Guiding Principles
+In 2020-2022 at the peak of the Covid Pandemic my wife and I were both trying to make "Work from home, virtual school from home, do everything from home" happen, I decided to make everything just a little bit more intense and applied to and completed an EMBA program. I highly recommend taking classes, courses, and talking with people in all areas of our business outside of Engineering - Knowledge of how a business operates can be very powerful in helping build relationships and finding opportunities to contribute outside of our core organization.
+
+My immediate family consists of my amazing wife [Melissa Blavos](https://www.linkedin.com/in/mblavos/), two children - Elliot and Olivia, and a dog named Pepper. We live in Raleigh, North Carolina. Go Heels!
+
+## Guiding Principles
 
 <details>
 
   <summary>
-    The <strong>Right Thing to Do</strong> should also be the <strong>easiest thing to do</strong>
+    <strong>The Right Thing to Do should also be the easiest thing to do</strong>
   </summary>
 
     • Compliance as code
@@ -52,29 +55,7 @@ My undergraduate studies focused on visual arts, music,  and literature, while I
 
 <details>
   <summary>
-    <strong>Leadership comes from everywhere.</strong>
-  </summary>
-
- My wife likes to remind me that I wouldn’t say I liked meetings for the first ten years of my professional career. She's right. I've spent a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers, even as a manager. While managers are an essential part of a scaling organization, they don’t have a monopoly on Leadership. I work hard to build other constructs and opportunities for any human on the team to be a leader.
-</details>
-
-<details>
-  <summary>
-    <strong>I see things as systems.</strong>
-  </summary>
- I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit and work together. When I see large or small inefficiencies in these complex systems, I'd like to fix them with your help.
-</details>
-
-<details>
-  <summary>
-    <strong>I see things as systems.</strong>
-  </summary>
-    It is important to me that humans are treated fairly. Most humans try to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. Those in power have a disproportionate responsibility to invest in historically disadvantaged humans proactively.
-</details>
-
-<details>
-  <summary>
-    <strong>I am heavily biased toward action. </strong>
+    <strong>I am heavily biased toward action</strong>
   </summary>
 Long meetings where we endlessly debate potential directions are often valuable, but I believe starting is the best way to begin learning and progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 </details>
@@ -131,9 +112,11 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 
 If a meeting completes its intended purpose before it's scheduled to end, let's give the time back to everyone. If it's clear the intended goal won't be achieved in the allotted time, let's stop the meeting before time is up and determine how to finish it effectively.
 
-## Nuance and Errata
+## Other Helpful Information
 
-- I am an introvert, and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight, you will find that I am strangely quiet. Please do not confuse my quiet with a lack of enthusiasm or engagement. Groups of humans are hard work for me.
+- Despite appearances, I am an introvert, and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight, you may find that I am strangely quiet. This is an area where I
+
+Please do not confuse my quiet with a lack of enthusiasm or engagement. Groups of humans are hard work for me, and large groups in a Zoom call are nearly sisyphean.
 
 - I am bad at asking for help which is probably related to my introversion. When I ask for help, I probably should have asked for help earlier, and I've made the situation direr than needed. Sorry.
 
