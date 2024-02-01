@@ -1,19 +1,19 @@
-# Jerrod Blavos
-#### VP, Engineering
 
-## A readme for a human?  What!?
-First things first, despite the "readme", I am not software or a robot. :smile:
+# Jerrod Blavos - VP, Engineering
 
-In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, and leading our engineering team towards success. This document serves as a guide to understand whow to best work with me, my committment to supporting my teams, PANDE, and Usertesting, and my expectations of the same.
+## Table of Contents
 
----
-### Table of Contents
-
-- [A little about me](#a-little-about-me)
+- [A little about Me](#a-little-about-me)
 - [Guiding Principles](#guiding-principles)
 - [Feedback Protocol](#feedback-protocol)
 - [Meeting Protocol](#meeting-protocol)
 - [Nuance & Eratta](#nuance-and-errata)
+
+## A readme for a human?  What!?
+
+This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+
+I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
 
 ## A little about me
 
@@ -28,6 +28,8 @@ In 2020-2022 at the peak of the Covid Pandemic my wife and I were both trying to
 My immediate family consists of my amazing wife [Melissa Blavos](https://www.linkedin.com/in/mblavos/), two children - Elliot and Olivia, and a dog named Pepper. We live in Raleigh, North Carolina. Go Heels!
 
 ## Guiding Principles
+
+In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, and  leading our engineering team towards success. This document serves as a guide to understand me as a person, my role at Usertesting, vision, committment to supporting my team, PANDE and Usertesting, and my expectations of the same.
 
 <details>
 
@@ -44,6 +46,7 @@ My immediate family consists of my amazing wife [Melissa Blavos](https://www.lin
     • Helpful, auto-fixing deprecation messages
 
 </details>
+
 <details>
   <summary>
     <strong>Humans first</strong>
@@ -55,7 +58,7 @@ My immediate family consists of my amazing wife [Melissa Blavos](https://www.lin
 
 <details>
   <summary>
-    <strong>I am heavily biased toward action</strong>
+    <strong>I am heavily biased toward action. </strong>
   </summary>
 Long meetings where we endlessly debate potential directions are often valuable, but I believe starting is the best way to begin learning and progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 </details>
