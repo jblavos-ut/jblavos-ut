@@ -11,9 +11,11 @@
 
 ## A readme for a human?  What!?
 
-This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
-I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
+I urge you to hold me accountable to my promises and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve.
+
+This document serves as a guide to understanding me as a person, my role at Usertesting, my vision, my commitment to supporting my team, PANDE and Usertesting, and my expectations of the same.
 
 ## A little about me
 
@@ -29,7 +31,7 @@ My immediate family consists of my amazing wife [Melissa Blavos](https://www.lin
 
 ## Guiding Principles
 
-In my role as a VP of Engineering, I am responsible for creating an enviroment that make success likely, and  leading our engineering team towards success. This document serves as a guide to understand me as a person, my role at Usertesting, vision, committment to supporting my team, PANDE and Usertesting, and my expectations of the same.
+In my role as a VP of Engineering, I am responsible for creating an environment that makes success likely and leading our engineering team toward success. 
 
 <details>
 
@@ -97,17 +99,15 @@ There is an exception to many of my practices and principles, which is when we a
 
 Feedback (along with delegation) is at the core of building trust and respect in a team.
 
-At $COMPANY, a formal feedback cycle occurs twice a year. The first time we go through this cycle, we'll draft a proposed set of OKRs for you for the next review period. These are not product or technology OKRs but professional growth OKRs for you. I'll send you these draft OKRs and upward feedback from your team before we meet so you can review them beforehand.
+At Usertesting, a formal feedback cycle occurs once a year during the January to March Quarter. As we go through this cycle, we'll also work on our V2Mom's for the year which will encompass product, technology & professional growth goals for you. This is a great opportunity to discuss the strategy for the next year and to make sure that we are aligned on our expectations of each other.
 
-In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period, and I'll ask for feedback on my performance. In our following review, the process differs thusly: I'll review you against our prior OKRs and introduce new OKRs (if necessary). Rinse and repeat.
+If you have gone through the V2Mom process previously, we'll use this as an opportunity to close out the prior year's goals and assess the progress made.
 
-Review periods are one of many times we'll exchange feedback. This will be a recurring topic in our 1:1s. I am asking you for feedback in 1:1s regularly. No matter how often you say you have no feedback for me, I will never stop doing this. Building a healthy feedback culture is a cornerstone of building high-trust relationships.
-
-Disagreement is feedback; the sooner we learn how to disagree with each other efficiently, the sooner we'll trust and respect each other more. Ideas don't get better with agreement.
+Please tell me when you see something off or wrong, particularly if it is something I am doing or leading -- Disagreement is feedback; the sooner we learn how to disagree with each other efficiently, the sooner we'll trust and respect each other more. **Ideas don't get better with agreement.**
 
 ## Meeting Protocol
 
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden. The vast majority of my meetings are neither private nor confidential.
+I go to a lot of meetings. I try to run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden. The vast majority of my meetings are neither private nor confidential.
 
 My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I attend a meeting, I'd prefer to start on time. If I run a meeting, I will start that meeting on time. If it's not clear why I am in a meeting, I will ask for clarification on my role in this meeting.
 
@@ -117,25 +117,16 @@ If a meeting completes its intended purpose before it's scheduled to end, let's 
 
 ## Other Helpful Information
 
-- Despite appearances, I am an introvert, and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight, you may find that I am strangely quiet. This is an area where I
-
-Please do not confuse my quiet with a lack of enthusiasm or engagement. Groups of humans are hard work for me, and large groups in a Zoom call are nearly sisyphean.
-
-- I am bad at asking for help which is probably related to my introversion. When I ask for help, I probably should have asked for help earlier, and I've made the situation direr than needed. Sorry.
-
-- When the 1:1 feels over, and there is remaining time I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind challenging topics that I am processing. It might feel like we're shooting the shit, but we're doing real work.
+- Despite appearances, I am an introvert, and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight, you may find that I am strangely quiet. This is an area where I continually and actively seek to improve. Please do not confuse my quiet with a lack of enthusiasm or engagement. I will most likely DM you if I have a question that I am confident would be wasteful of the large group's time.
 
 - When I ask you to do something that feels poorly defined you should ask me for clarification and a specific call on importance. I might still be brainstorming. Your clarifications can save a lot of people a lot of time.
 
-- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Rands, can you help with X?"). I react poorly to being told what to do ("Rands, do X.”) I have been this way since I was a kid and probably need therapy.
+- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Rands, can you help with X?"). 
 
-- When you say something complicated, I will often repeat it. I will say, “Let me tell you what I heard.” I have discovered the hard way that what is being said is often not what is being heard.
+- I can be hyperbolic, but it's almost always because I am excited about the topic.
 
-- I can be hyperbolic, but it's almost always because I am excited about the topic. I also swear sometimes. Sorry.
-
-- I love to start new things but I often lose interest when I can mentally see how the thing will finish, which might be weeks or months before the thing is done. I solve this by pairing with humans who are strong operators and who are very good at checking things off lists.
-
-- Humans stating opinions as facts are a trigger for me. When I hear this, I will often unexpectedly jump into a conversation to clarify that your opinion is just that… your opinion and not a fact.
+- Humans stating opinions as facts is a trigger for me. When I hear this, I will often unexpectedly jump into a conversation to clarify that your opinion is just that… your opinion and not a fact.
 
 ---
+
 This document is a living breathing thing and likely incomplete. I update it frequently and would appreciate your feedback.
