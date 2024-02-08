@@ -23,7 +23,7 @@ I joined Usertesting in 2015, coming in with over a decade of leading product an
 
 We built easy to use, self-service solutions for [complex, multi-region, multi-language asset management](https://www.wmg.com), [fan clubs](https://www.roadrunnerrecords.com), [talent scouting & street teams](https://www.redbullrecords.com), [ecommerce platforms for legendary act's live music archives](https://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html),  [marketing campaigns leveraging existing tech in unexpected ways](https://www.nbcnews.com/id/wbna55011838), and had the opportunity to work alongside [some](https://smashingpumpkins.com) [of](https://www.coheedandcambria.com) [my]() [musical](https://www.gojira-music.com) and [artistic](https://www.paulfrank.com) [idols](https://en.wikipedia.org/wiki/Black_Francis) along with [early pioneers in the UX space](https://medium.com/@adaptivepath), one of the [most influential metal news sites on the internet](https://blabbermouth.net), a now-favorite [irish whiskey](https://www.coheedandcambria.com), and [pop music for kids](https://kidzbop.com).
 
-My undergraduate studies focused on visual arts, music,  and literature, while I worked to pay my way through college as a designer for the [Marietta College marketing team](https://www.marietta.edu/communication-brand). I graduated with a major in oil painting & printmaking, and a minor in both music theory and performance, and english literature. Of the three, I spend the most time with music, both listening to and [creating it](https://soundcloud.com/blavos/sets/bound).
+My undergraduate studies focused on visual arts, music,  and literature, while I worked to pay my way through college as a designer for the [Marietta College marketing team](https://www.marietta.edu/communication-brand). I graduated with a major in oil painting & printmaking, and a minor in both music theory and performance, and English literature. Of the three, I spend the most time with music, both listening to and [creating it](https://soundcloud.com/blavos/sets/bound).
 
 In 2020-2022 at the peak of the Covid Pandemic my wife and I were both trying to make "Work from home, virtual school from home, do everything from home" happen, I decided to make everything just a **little bit more intense** and completed an EMBA program. I highly recommend taking classes, and courses, and talking with people in all areas of our business outside of Engineering - Knowledge of how a business operates can be very powerful in helping build relationships and finding opportunities to contribute outside of your core team and organization.
 
@@ -121,7 +121,7 @@ If a meeting completes its intended purpose before it's scheduled to end, let's 
 
 - When I ask you to do something that feels poorly defined you should ask me for clarification and a specific call on importance. I might still be brainstorming. Your clarifications can save a lot of people a lot of time.
 
-- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Jerrod, can you help with X?"). 
+- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Jerrod, can you help with X?"). You have just added some excitement to my day!
 
 - I can be hyperbolic, but it's almost always because I am excited about the topic.
 
