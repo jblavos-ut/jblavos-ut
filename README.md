@@ -121,7 +121,7 @@ If a meeting completes its intended purpose before it's scheduled to end, let's 
 
 - When I ask you to do something that feels poorly defined you should ask me for clarification and a specific call on importance. I might still be brainstorming. Your clarifications can save a lot of people a lot of time.
 
-- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Rands, can you help with X?"). 
+- Ask assertive versus tell assertive. When you need to ask me to do something, ask me. I respond incredibly well to asking assertiveness ("Jerrod, can you help with X?"). 
 
 - I can be hyperbolic, but it's almost always because I am excited about the topic.
 
