@@ -31,7 +31,7 @@ My immediate family consists of my amazing wife [Melissa Blavos](https://www.lin
 
 ## Guiding Principles
 
-In my role as a VP of Engineering, I am responsible for creating an environment that makes success likely and leading our engineering team toward success. 
+In my role as a VP of Engineering, I am responsible for creating an environment that makes success likely and leading our engineering team toward success.
 
 <details>
 
